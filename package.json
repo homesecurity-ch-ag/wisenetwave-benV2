@@ -1,0 +1,10 @@
+{
+  "name": "wisenet-wave-api-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node wisenet_wave_main.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
